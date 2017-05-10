@@ -15,7 +15,6 @@ namespace PatricksFirstProgram
 
         static void Main(string[] args)
         {
-            testc; 
             Console.WriteLine("Patrick's First Program");
             Console.WriteLine("\nWhat is your name?");
             string line = Console.ReadLine();
